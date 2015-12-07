@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/info.png",
+        "source": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/drawable-xlarge/info.png"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/button.png",
+        "source": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/drawable-xlarge/button.png"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/icon.png",
+        "source": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/drawable-xlarge/icon.png"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/sound.png",
+        "source": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/drawable-xlarge/sound.png"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/secondbutton.png",
+        "source": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/drawable-xlarge/secondbutton.png"
+    }
+]

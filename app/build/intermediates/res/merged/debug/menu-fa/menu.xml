@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<menu  
+  xmlns:android="http://schemas.android.com/apk/res/android">  
+<item android:title="ایالات متحده و یا بریتانیا لهجه" android:id="@+id/accent"></item>  
+<item android:title="خروج" android:id="@+id/exit"></item> 
+<item android:title="توسعه دهنده ایمیل" android:id="@+id/email"></item> 
+
+</menu>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<menu  
+  xmlns:android="http://schemas.android.com/apk/res/android">  
+<item android:title="アメリカやイギリスのアクセント" android:id="@+id/accent"></item>  
+<item android:title="終了" android:id="@+id/exit"></item> 
+<item android:title="電子メールの開発" android:id="@+id/email"></item> 
+
+</menu>

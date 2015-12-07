@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/layout-xlarge-v4/scrolllist.xml",
+        "source": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/layout-xlarge/scrolllist.xml"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/layout-xlarge-v4/main.xml",
+        "source": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/layout-xlarge/main.xml"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/layout-xlarge-v4/voice_recognition.xml",
+        "source": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/layout-xlarge/voice_recognition.xml"
+    }
+]

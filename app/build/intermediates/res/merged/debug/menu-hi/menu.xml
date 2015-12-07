@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<menu  
+  xmlns:android="http://schemas.android.com/apk/res/android">  
+<item android:title="अमेरिका या ब्रिटेन उच्चारण" android:id="@+id/accent"></item>  
+<item android:title="निकास" android:id="@+id/exit"></item> 
+<item android:title="ईमेल डेवलपर" android:id="@+id/email"></item> 
+
+</menu>

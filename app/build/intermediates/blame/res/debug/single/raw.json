@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/raw/wordlist",
+        "source": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/raw/wordlist"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/raw/secondwordlist",
+        "source": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/raw/secondwordlist"
+    }
+]

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stock Names</string>
+    <string name="back_to_speaker">back to speaker</string>
+    <string name="get_answer">answer</string>
+    <string name="market_look">Look at more English language Apps for Android</string>
+    <string name="next_button">question</string>
+    <string name="speak_answer">speak your answer</string>
+    <string name="speech_recogniser">speech recogniser</string>
+    <string name="textstring">
+INDU:IND = USA 30-blue chip\n\n
+SPX:IND = USA - Standard and Poor\'s 500 Index\n\n
+CCMP:IND = USA Composite Index\n\n
+RTY:IND = USA -2000 Stocks Index \n\n
+SPTSX:IND = Canada Toronto Stocks Index \n\n
+MEXBOL:IND = Mexico Stocks Index\n\n
+IBOV:IND = Brazil Sao Paulo Stocks Index\n\n
+IGBC:IND = Columbia Stocks Index\n\n
+BE500:IND = Bloomberg European Stocks Index\n\n
+SX5E:IND = European Stocks Index\n\n
+UKX:IND = UK Stocks Index\n\n
+CAC:IND = France Stocks Index\n\n
+DAX:IND = Germany Stocks Index \n\n
+IBEX:IND = Spain -  Stocks Index\n\n
+SPMIB:IND = Italy - Milan Stocks Index \n\n
+AEX:IND = Dutch Stock Index\n\n
+OMX:IND = Sweden Stockholm 30 Stocks Index \n\n
+OSEBX:IND = Norway Oslo Stocks Index \n\n
+SMI:IND = Switzerland Stocks Index \n\n
+ISEQ:IND = Irland Stocks Index\n\n
+KFX:IND = Denmark Copenhagen Stocks Index\n\n
+ASE:IND = Greece Athens Stocks Index \n\n
+XU100:IND = Turkey Istanbul Stocks Index \n\n
+TA-25:IND = Israel Tel Aviv Stocks Index \n\n
+INDEXCF:IND = Russia Moscow Stocks Index \n\n
+TOP40:IND = Africa Stocks Index\n\n
+NKY:IND = Japan Stocks Index \n\n
+HSI:IND = Hong Kong Stocks Index \n\n
+SHSZ300:IND = China Shanghai Stocks Index\n\n
+TWSE:IND = Taiwan Stocks Index\n\n
+SENSEX:IND = India Stocks Index \n\n
+NIFTY:IND = India Large Stocks Index \n\n
+KOSPI:IND = Korea Seoul Stocks Index \n\n
+AS51:IND = Australia Stocks Index \n\n
+NZSE50FG:IND  = New Zealand Stocks Index \n\n
+STI:IND = Singapore Straits Stocks Index \n\n
+</string>
+</resources>

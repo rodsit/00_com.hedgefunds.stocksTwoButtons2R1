@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/drawable/info.png",
+        "source": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/drawable/info.png"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/drawable/secondbutton.png",
+        "source": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/drawable/secondbutton.png"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/drawable/button.png",
+        "source": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/drawable/button.png"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/drawable/sound.png",
+        "source": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/drawable/sound.png"
+    }
+]

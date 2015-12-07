@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<menu  
+  xmlns:android="http://schemas.android.com/apk/res/android">  
+<item android:title="ארהב או בריטניה מבטא" android:id="@+id/accent"></item>  
+<item android:title="יציאה" android:id="@+id/exit"></item> 
+<item android:title="דואל מפתח" android:id="@+id/email"></item> 
+
+</menu>

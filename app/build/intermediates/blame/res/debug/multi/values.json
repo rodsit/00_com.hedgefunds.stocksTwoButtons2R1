@@ -1,0 +1,161 @@
+[
+    {
+        "outputFile": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 59,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 59,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 45,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 8,
+                        "startOffset": 285,
+                        "endColumn": 49,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 86,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 393,
+                        "endColumn": 82,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endColumn": 48,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 8,
+                        "startOffset": 232,
+                        "endColumn": 52,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 58,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 9,
+                        "startOffset": 336,
+                        "endColumn": 63,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 63,
+                    "endOffset": 464
+                },
+                "from": {
+                    "file": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 63,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endLine": 46,
+                    "endColumn": 9,
+                    "endOffset": 1955
+                },
+                "from": {
+                    "file": "/Users/Will/AndroidStudioProjects/hedgefunds_twoButtons/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 481,
+                        "endLine": 46,
+                        "endColumn": 9,
+                        "endOffset": 1968
+                    }
+                }
+            }
+        ]
+    }
+]

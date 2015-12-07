@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<menu  
+  xmlns:android="http://schemas.android.com/apk/res/android">  
+<item android:title="Americanish od. English Einschlag" android:id="@+id/accent"></item>  
+<item android:title="aus" android:id="@+id/exit"></item> 
+<item android:title="email Entwickler" android:id="@+id/email"></item> 
+
+</menu>
